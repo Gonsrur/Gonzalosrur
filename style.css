@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500;600;700&display=swap');
+*{
+	font-family: 'Hind Siliguri', sansserif;
+	margin: 0;
+	padding: 0;
+}
+
+html{
+	font-size: 62.5%;
+}
+
+h1{
+	color#815424
+}
+
+h1,h2,h3{
+	color: #6F3116;
+}
+
+h1{
+	font-size: 4rem
+}
+
+h2{
+	font-size: 3rem
+}
+
+h3{
+	font-size: 2rem
+}
+
+section article p{
+	color: #595151;
+	font-size: 2rem;
+	font-weight: 310;
+	line-height: 2.5rem
+
+}
+
+header{
+	color: red; 
+	font-size: 4rem
+}
+
+body{
+	background-image: url(img/fondo.png);
+}
+nav{
+	background-color: rgba(194,120,54,0.65);
+} 
+    nav ul{
+	list-style: none;
+    }
+    	nav ul li{
+    		font-size: 2rem;
+    	}
+    		nav ul li a{
+    			text-decoration: none;
+    			color#3B3232;
+    			font-family: 'Hind Siliguri', sansserif
+    		}
+
+ .imgsize{
+ 	height: 120px
+ }
+
+ #fotocafe2{
+ 	width: 100rem
+ }   		
+
+.textCenter{
+	text-align: center;
+
+}
+.textWhite{
+	color: white;
+}
+
+.textMedium{
+	font-size: 2rem;
+	line-height: 2.4rem;
+}
+
+.textXl{
+	font-size: 4rem 
+}	
+
+.bgBrown{
+	background-color: rgba(194,120,54,0.6)
+}	
+.bgLight{
+	background-color: #EBD2D2
+}
+
+.encabezado nav{
+	position: fixed;
+	width: 100%
+}													
+
+.encabezado nav ul{
+	display: inline-block;
+	margin-left: 30px
+}
+
+.encabezado nav ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+.encabezado nav ul li a{
+	font-size: 1.9
+	text-decoration:none;
+	color: #574747
+}
+
+.encabezado nav ul li a:hover{
+	font-weight: 750
+	color: #0D0B0B
+}
+
+.encabezadoImgFluid{
+	width: 100%
+}
